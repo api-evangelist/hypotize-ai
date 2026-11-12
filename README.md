@@ -1,4 +1,4 @@
-# hypotize-ai
+# Hypotize
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hypotize-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hypotize.ai/
+Hypotize provides an agent‑native Growth OS that equips teams with a framework, MCP server, skills, and plugins to turn AI agents into disciplined growth hackers. It supports experiment staging, outcome measurement, shared memory of learnings, and integrates with Claude, ChatGPT, Grok Bot, and Cursor to automate growth workflows.
+
+**Areas:** Growth · AI · Automation · Experimentation · Platform · Company
+
+## Hypotize on APIs.io
+
+Everything profiled for Hypotize is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hypotize-ai/](https://apis.io/providers/hypotize-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Hypotize Comments API](https://apis.io/apis/hypotize-ai/hypotize-ai-comments-api/) — Dated notes on an experiment.
+- [Hypotize Experiments API](https://apis.io/apis/hypotize-ai/hypotize-ai-experiments-api/) — Ideas, tests in the pipeline and their outcomes. An idea is an experiment in the Idea status.
+- [Hypotize Learnings API](https://apis.io/apis/hypotize-ai/hypotize-ai-learnings-api/) — Closed experiments with their result and learning.
+- [Hypotize Projects API](https://apis.io/apis/hypotize-ai/hypotize-ai-projects-api/) — Projects you can access.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Hypotize Agentic Access](https://apis.io/agentic-access/hypotize-ai/hypotize-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hypotize Ai Context](https://apis.io/jsonld/hypotize-ai/hypotize-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Hypotize API Rules](https://apis.io/rules/hypotize-ai/hypotize-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hypotize Authentication](https://apis.io/security/hypotize-ai/hypotize-ai-authentication/)
+- [Hypotize Domain Security](https://apis.io/security/hypotize-ai/hypotize-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hypotize.ai/)
+- [Documentation](https://hypotize.ai/guides/ab-testing-tools)
+- [Getting started](https://hypotize.ai/guides/experiment-memory)
+- [API reference](https://hypotize.ai/developers)
+- [Pricing](https://hypotize.ai/pricing)
+- [Terms of service](https://hypotize.ai/terms)
+- [Privacy policy](https://hypotize.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 45.9** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 31.6 |
+
+**Agent readiness 52.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hypotize-ai/](https://apis.io/providers/hypotize-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hypotize: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hypotize-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
